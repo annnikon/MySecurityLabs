@@ -1,0 +1,6 @@
+.cssbutton {
+    -fx-font: 28px "Serif";
+    -fx-padding: 10;
+    -fx-background-color: #CCFF99;
+    -fx-effect: dropshadow( one-pass-box , black , 12 , 0.0 , 1 , 1 );
+}

@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'caviar_dreams_bold';
+    src: url('caviar_dreams_bold.eot');
+    src: url('caviar_dreams_bold.eot?#iefix') format('embedded-opentype'),
+         url('caviar_dreams_bold.woff') format('woff'),
+         url('caviar_dreams_bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'caviardreams';
+    src: url('caviardreams.eot');
+    src: url('caviardreams.eot?#iefix') format('embedded-opentype'),
+         url('caviardreams.woff') format('woff'),
+         url('caviardreams.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'caviardreams_bolditalic';
+    src: url('caviardreams_bolditalic.eot');
+    src: url('caviardreams_bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('caviardreams_bolditalic.woff') format('woff'),
+         url('caviardreams_bolditalic.ttf') format('truetype');
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: 'caviardreams_italic';
+    src: url('caviardreams_italic.eot');
+    src: url('caviardreams_italic.eot?#iefix') format('embedded-opentype'),
+         url('caviardreams_italic.woff') format('woff'),
+         url('caviardreams_italic.ttf') format('truetype');
+    font-weight: normal;
+}
